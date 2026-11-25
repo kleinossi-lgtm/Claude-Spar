@@ -1,0 +1,7 @@
+{
+  "name": "claude-spar",
+  "owner": { "name": "kleinossi-lgtm" },
+  "plugins": [
+    { "name": "spar-modus", "source": "./spar-modus", "description": "Spart Kontingent: Haiku für einfache Fragen, Sonnet für normale Arbeit, Opus für schwere Aufgaben." }
+  ]
+}
