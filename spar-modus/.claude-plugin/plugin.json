@@ -1,0 +1,8 @@
+{
+  "name": "spar-modus",
+  "version": "0.1.0",
+  "description": "Spart Kontingent: einfache Fragen an Haiku, normale Arbeit an Sonnet, schwere Aufgaben an Opus. Zeigt das Modell in der Statuszeile.",
+  "license": "MIT",
+  "author": { "name": "kleinossi-lgtm" },
+  "types": "./types/index.d.ts"
+}
